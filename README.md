@@ -1,6 +1,4 @@
--  Hi, I’m @rallwyzz
--  I’m interested in programming & games
--  I’m currently learning C++, Python and Web Development
-- Ooops! It's empty.
-- Oh, It's still empty.
-
+## Dev from Turkey.
+- I mainly code on C++ and Python.
+- Reallly interested in games aswell.
+- Thats all, i do some small personal projects here aswell.
